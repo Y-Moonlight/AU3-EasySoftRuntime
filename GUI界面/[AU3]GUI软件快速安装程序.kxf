@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form1">
+	<properties>
+		<property name="Left" vt="Int16">191</property>
+		<property name="Top" vt="Int16">179</property>
+		<property name="Width" vt="Int16">576</property>
+		<property name="Height" vt="Int16">409</property>
+		<property name="Caption" vt="String">Form1</property>
+		<property name="Color" vt="Ident">clSkyBlue</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Position" vt="Ident">poDesktopCenter</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAEdit" name="Edit1">
+			<properties>
+				<property name="Left" vt="Int8">100</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int16">433</property>
+				<property name="Height" vt="Int16">245</property>
+				<property name="Color" vt="Ident">clMenu</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="Lines.Strings" vt="List">
+					<list>
+						<li vt="UTF8String">ЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄИнјюМШµгЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ</li>
+						<li vt="UTF8String">EasySoftRuntimeИнјюТ»јьФЛРРївЈЁјтіЖESRЈ©КЗУЙ@Ж®°Ч±аРґµДµДТ»</li>
+						<li vt="UTF8String">їоїмЅЭ°ІЧ°ПµНііЈУГФЛРРївµД№¤ѕЯЎЈјЇіЙБЛFlashМШ±р°жЎўNET3.5Ўў</li>
+						<li vt="UTF8String">DX9ЎўVCµИ¶аЦЦФЛРРївЈЁНжУОП·ЎўЙПНшЎў°м№«±Ш±ёЈ©Ј¬Т»јь°ІЧ°Ј¬ТІ</li>
+						<li vt="UTF8String">їЙК№УГЎ°/sЎ±»тЎ°/SЎ±ЈЁІ»°ьАЁТэєЕЈ©ІОКэЧФ¶Ї°ІЧ°Ј¬·Ѕ±гДъФЪІ»Н¬»·</li>
+						<li vt="UTF8String">ѕіПВК№УГЎЈ</li>
+						<li vt="UTF8String">ИнјюјЇіЙЧоРВФЛРРївЎўІЩЧчјтµҐЎў°ІЧ°їмЅЭЈ¬КЗЖХНЁµзДФУГ»§Ч°»ъµДКЧ</li>
+						<li vt="UTF8String">СЎИнјюЈ¬ФЛРРїв°ІЧ°Ј¬Т»јьµЅО»ЎЈ</li>
+						<li vt="UTF8String">ЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄМШ±рМбРСЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ</li>
+						<li vt="UTF8String">УЙУЪИнјюДЪЦГФЛРРївЅП¶аЈ¬°ІЧ°К±јдЅПі¤Ј¬ЗлДНРДµИґэЈЁ»ъРµУІЕМЅ«»б</li>
+						<li vt="UTF8String">»Ё·Сёь¶аК±јдЈ©ЎЈ°ІЧ°К±Зл±ЈґжІўНЛіцЛщУРИнјюТФ±ЈЦ¤ИнјюХэіЈФЛРРЈ¬</li>
+						<li vt="UTF8String">Иф°ІЧ°ЖЪјдµЇіцИнјюФЛРРґ°їЪЗлСЎФсФЛРРЎЈ</li>
+						<li vt="UTF8String">ЧўТвЈєFlashМШ±р°ж°ІЧ°НкіЙєуИФРиТЄЦ§іЦFlashµДдЇААЖчЈЁIEµИЈ©АґФЛ</li>
+						<li vt="UTF8String">РРЈ¬РВ°жEdgeЈ¬ChromeѕщІ»Ц§іЦЈЎ</li>
+						<li vt="UTF8String">°ІЧ°НкФЛРРївєуЗлЦШЖфµзДФТФ±ЈЦ¤ЛщУРФЛРРївЙъР§ЎЈ</li>
+						<li vt="UTF8String">ЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ°жИЁѕА·ЧєНГвФрЙщГчЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ</li>
+						<li vt="UTF8String">ёГИнјю°жИЁ№й@Ж®°ЧЛщУРЈ¬ДЪЦГФ­ИнјюЈЁФЛРРївЈ©°жИЁєНЅвКНИЁ№йФ­Ин</li>
+						<li vt="UTF8String">јю№«ЛѕЛщУРЎЈЈЁёРР»ITМмїХЎў423downМб№©ИнјюЦ§іЦЈ©</li>
+						<li vt="UTF8String">@Ж®°ЧЅцЅ«Ф­ИнјюЈЁФЛРРївЈ©ЅшРРХыєПК№УГЎЈИнјюЅцПЮУЪёцИЛСРѕїС§П°</li>
+						<li vt="UTF8String">К№УГЈ¬ЅыЦ№УГУЪИОєОЙМТµДїµД»тХЯ·З·ЁУГНѕЎЈК№УГХЯФміЙµДИОєО·З·ЁУЇ</li>
+						<li vt="UTF8String">Аы»тХЯЗЦИЁѕА·ЧУЙК№УГХЯЧФРРіРµЈТ»ЗР·ЁВЙєу№ыЈ¬Ул@Ж®°ЧОЮ№ШЎЈ°ІЧ°</li>
+						<li vt="UTF8String">ґЛИнјюјґ±нКѕТСГчИ·ЅУКЬґЛЙщГчЎЈ</li>
+						<li vt="UTF8String">ЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄЎЄ</li>
+						<li vt="UTF8String">ЦЖЧчІ»ТЧЈ¬ЧЄФШЗлЧўГчіцґ¦Ўэ</li>
+						<li vt="UTF8String">ЧчХЯЈє@Ж®°Ч  </li>
+						<li vt="UTF8String">QQЈє3570150233 </li>
+						<li vt="UTF8String">EmailЈє3570150233@qq.com</li>
+					</list>
+				</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="CtrlStyle" vt="Int32">1345523908</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAInput" name="Input1">
+			<properties>
+				<property name="Left" vt="Int8">20</property>
+				<property name="Top" vt="Int16">295</property>
+				<property name="Width" vt="Int16">428</property>
+				<property name="Height" vt="Int8">27</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Text" vt="WString">ПµНі№¤ЧчДїВј   ЈЁФЭІ»Ц§іЦёьёДЈ©</property>
+				<property name="CtrlStyle" vt="Int32">1342374016</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button1">
+			<properties>
+				<property name="Left" vt="Int16">465</property>
+				<property name="Top" vt="Int16">295</property>
+				<property name="Width" vt="Int8">70</property>
+				<property name="Height" vt="Int8">28</property>
+				<property name="Caption" vt="WString">ёьёДДїВј</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="Color" vt="Ident">clBtnFace</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button2">
+			<properties>
+				<property name="Left" vt="Int16">379</property>
+				<property name="Top" vt="Int16">330</property>
+				<property name="Width" vt="Int8">70</property>
+				<property name="Height" vt="Int8">28</property>
+				<property name="Caption" vt="WString">їЄКј°ІЧ°</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="Color" vt="Ident">clBtnFace</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button3">
+			<properties>
+				<property name="Left" vt="Int16">465</property>
+				<property name="Top" vt="Int16">330</property>
+				<property name="Width" vt="Int8">70</property>
+				<property name="Height" vt="Int8">28</property>
+				<property name="Caption" vt="WString">НЛіц°ІЧ°</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-12</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="Color" vt="Ident">clBtnFace</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label1">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int16">335</property>
+				<property name="Width" vt="Int16">213</property>
+				<property name="Height" vt="Int8">23</property>
+				<property name="Caption" vt="UTF8String">ЧчХЯЈє@Ж®°Ч    QQЈє3570150233</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label2">
+			<properties>
+				<property name="Left" vt="Int8">25</property>
+				<property name="Top" vt="Int16">265</property>
+				<property name="Width" vt="Int8">63</property>
+				<property name="Height" vt="Int8">23</property>
+				<property name="Caption" vt="WString">°ІЧ°ДїВјЎэ</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAIcon" name="Icon1">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int8">24</property>
+				<property name="Width" vt="Int8">56</property>
+				<property name="Height" vt="Int8">56</property>
+				<property name="CtrlStyle" vt="Int32">1342374147</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Windows\Temp\ESRTemp\ico1.ico</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+				<property name="TabOrder" vt="Int8">7</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label3">
+			<properties>
+				<property name="Left" vt="Int8">20</property>
+				<property name="Top" vt="Int8">90</property>
+				<property name="Width" vt="Int8">69</property>
+				<property name="Height" vt="Int8">23</property>
+				<property name="Caption" vt="WString">°ІЧ°ЛµГчЎъ</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-13</property>
+				<property name="Font.Name" vt="WString">ОўИнСЕєЪ</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>
